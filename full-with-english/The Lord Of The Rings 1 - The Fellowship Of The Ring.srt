@@ -160,7 +160,7 @@ fought for the freedom of Middle-earth.
 38
 00:02:51,460 --> 00:02:56,560
 <font color="#008000">Leithio i philinn!</font>
-<font color="#FFFF00">(Fire the arrows!)</font>
+<font color="#FFFF00">(Loose the arrows!)</font>
 
 39
 00:02:53,970 --> 00:02:58,459

@@ -7538,7 +7538,7 @@ So it begins.
 1741
 02:50:42,581 --> 02:50:44,207
 <font color="#008000">Hado i philinn!</font>
-<font color="#FFFF00">(Release the arrows!)</font>
+<font color="#FFFF00">(Loose the arrows!)</font>
 
 1742
 02:50:49,321 --> 02:50:50,598
@@ -7700,12 +7700,12 @@ Causeway!
 1780
 02:54:54,700 --> 02:54:56,700
  <font color="#008000">Na fennas!</font>
-<font color="#FFFF00"> (To the gateway!)</font>
+<font color="#FFFF00">(To the causeway!)</font>
 
 1781
 02:54:56,705 --> 02:54:57,987
 <font color="#008000">Hado ribed! Hado!</font>
-<font color="#FFFF00">(Hurl to flow! Hurl!)</font>
+<font color="#FFFF00">(Loose continously! Loose!)</font>
 
 1782
 02:55:03,484 --> 02:55:05,752
@@ -7750,7 +7750,7 @@ Gimli!
 1791
 02:57:17,700 --> 02:57:20,600
 <font color="#008000">Hado i philinn!</font>
-<font color="#FFFF00">(Release the arrows!)</font>
+<font color="#FFFF00">(Loose the arrows!)</font>
 
 1792
 02:57:22,660 --> 02:57:23,608
